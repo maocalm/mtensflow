@@ -1,0 +1,12 @@
+document photo
+food
+multi personphoto
+personal selfie
+phone screenshot
+starry sky
+transportation
+animal
+building
+flowers
+fruit
+landscape
